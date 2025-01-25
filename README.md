@@ -19,6 +19,7 @@ Jerry's Cheese Chase is an exciting arcade-style game where players control Jerr
 - Start screen with game instructions
 - Dynamic difficulty scaling
 - Score tracking
+- Explosive game over sequence
 
 **How to Play**
 1. Click PLAY on the start screen
